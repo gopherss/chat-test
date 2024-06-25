@@ -5,13 +5,14 @@ import { getDatabase } from "firebase/database";
 
 // Your web app's Firebase configuration
 const firebaseConfig = {
-  apiKey: "AIzaSyApzVomm-la6zIDZUuLdzEwt0JHrrs8igI",
-  authDomain: "crm-backend-3d69b.firebaseapp.com",
-  projectId: "crm-backend-3d69b",
-  storageBucket: "crm-backend-3d69b.appspot.com",
-  messagingSenderId: "436154305868",
-  appId: "1:436154305868:web:3026223f3095f7ffd4d3e9",
-  measurementId: "G-CQR9D37L2M"
+  apiKey: "AIzaSyDRxGmRKJPSujm6FTO_LPVo502UkSgT5yk",
+  authDomain: "prueba-a7c5a.firebaseapp.com",
+  databaseURL: "https://prueba-a7c5a-default-rtdb.firebaseio.com",
+  projectId: "prueba-a7c5a",
+  storageBucket: "prueba-a7c5a.appspot.com",
+  messagingSenderId: "927555907850",
+  appId: "1:927555907850:web:7cb53936670954fc434af3",
+  measurementId: "G-6CGEN4VR0M"
 };
 
 // Initialize Firebase
